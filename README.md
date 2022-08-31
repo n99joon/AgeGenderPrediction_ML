@@ -27,6 +27,8 @@ Regression (RandomForest, XGboost, ridge, etc)
 
 Classification (KNN, XGB, etc)
 
+HyperparameterTuning (GridSearchCV)
+
 
 ## Report & Analysis of models
 Feature importance
