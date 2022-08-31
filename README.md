@@ -1,6 +1,9 @@
 # AgeGenderPrediction_ML
 This project was done as a part of entrace exam to a Korean company. (Thus, most comments and data are in korean)
 
+## Tech stack:
+Python, pandas, numby, matplotlib, scikit-learn, seaborn, jupyter notebook, xgboost
+
 ## Main goal:
 Fetch the various health data(Ex: weight, height, etc.) from korean statistics authority and train models to predict age and gender. 
 
