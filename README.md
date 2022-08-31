@@ -8,20 +8,27 @@ Fetch the various health data(Ex: weight, height, etc.) from korean statistics a
 ## Contents:
 ## EDA
 Problem Definition
+
 Data Visualization
+
 Missing Values / Outliers Check
 
 ## Data Preprocessing
 Data Cleaning
+
 Feature Engineering
+
 Principal Component Analysis (PCA)
+
 Mutual Information Score
 
 ## Modeling
 Regression (RandomForest, XGboost, ridge, etc)
+
 Classification (KNN, XGB, etc)
 
 
 ## Report & Analysis of models
 Feature importance
+
 To improve (Ensemble/stacking, etc)
