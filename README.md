@@ -1,5 +1,5 @@
 # AgeGenderPrediction_ML
-This project was done as a part of entrace exam to a Korean company. (Thus, most comments and data are in korean)
+Most comments and data are in korean
 
 ## Tech stack:
 Python, pandas, numby, matplotlib, scikit-learn, seaborn, jupyter notebook, xgboost
